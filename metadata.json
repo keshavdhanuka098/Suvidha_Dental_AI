@@ -1,0 +1,6 @@
+{
+  "name": "AI Dental Health Survey Guide",
+  "description": "An interactive dental hygiene and image capture guide for the National AI Dental Health Survey.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
